@@ -14,6 +14,6 @@
 
 ## 项目3：图像旋转
 ![原图](项目3/a.jpg)
-![左转 90 度](项目2/img_rorate_left.png)
-![右转 90 度](项目2/img_rorate_right.png)
-![旋转 180 度](项目2/img_rorate_180.png)
+![左转 90 度](项目3/img_rorate_left.png)
+![右转 90 度](项目3/img_rorate_right.png)
+![旋转 180 度](项目3/img_rorate_180.png)
